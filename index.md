@@ -1,8 +1,3 @@
----
-layout: default
-title: ホーム
----
- 
 # Takeda
  
 個人サイトです。
