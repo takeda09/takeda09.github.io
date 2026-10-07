@@ -1,4 +1,4 @@
-<link href="/path/to/hoge.css" rel="stylesheet"></link>
+<link href="/path/to/index.css" rel="stylesheet"></link>
 
  
 個人サイトです。
