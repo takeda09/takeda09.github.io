@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+git add .
+git commit -m "first commit"
+git push -u origin main# Auto detect text files and perform LF normalization
 * text=auto
